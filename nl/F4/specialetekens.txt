@@ -1,2 +1,2 @@
 # Alt Code speciale tekens voor software ontwikkeling en testen
-°£€
+€°£
