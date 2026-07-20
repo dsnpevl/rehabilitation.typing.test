@@ -1,2 +1,2 @@
-#
+# door AI gegenereerde oefening voor de linker ringvinger (op een QWERTY toetsenbord)
 ssss wwww xxxx sswwssxx wwxx swsw wxwx swsx swxs sxsw wxsxxswx xwsx wwss xxss swxw sxws wxsw xwxsxssw wxxs wsxs xsxw swsx wxsx xsws swxs wxss
