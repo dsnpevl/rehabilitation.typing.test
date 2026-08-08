@@ -1,2 +1,2 @@
-# Alt Code speciale tekens voor software ontwikkeling en testen
-€°£
+# Test file for autocomplete
+0123456789 #$%&*+/<=>@^_`|~\\°£€¥¢áéíóúýÁÉÍÓÚÝàèìòùÀÈÌÒÙâêîôûÂÊÎÔÛäëïöüÿÄËÏÖÜãñõÃÑÕçģķļņÇĢĶĻŅåÅčšžČŠŽāēīōūĀĒĪŌŪæœßðøþÆŒẞÐØÞ Autocomplete.
