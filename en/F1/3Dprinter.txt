@@ -1,0 +1,2 @@
+# AI generated text
+A 3D printer is a machine that creates three-dimensional objects by building them layer by layer. Instead of cutting material away, it adds material exactly where it is needed. Most printers use melted plastic, but advanced models can use metal, resin, or even food. Users start with a digital blueprint made on a computer. The printer reads this design and meticulously deposits layers until the physical object is complete, revolutionizing manufacturing and personal prototyping.
